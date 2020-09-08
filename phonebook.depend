@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1592427373 source:d:\11th semestar\pl 1\final\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
